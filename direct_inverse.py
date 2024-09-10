@@ -27,5 +27,11 @@ if len(set(po))==1:
              print("Something wrog you have input")
     else:
         print("they are in direct variation")
+elif len(set(lou))==1:
+    if len(set(lou))==1:
+            print("they are in inverse variation")
+    else:
+        print("Something wrog you have input")
+
 else:
     print("Something wrog you have input")
